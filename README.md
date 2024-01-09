@@ -25,11 +25,11 @@ The final task involves incorporating third-party suppliers to meet an increased
 ## Data Files
 The `data` folder contains all the datasets used in this project:
 
-- `suppliers.csv/.dat`: Contains information about the biomass suppliers.
-- `plants.csv/.dat`: Details the potential locations for biorefineries.
-- `roads_s_p.csv/.dat`: Road transportation details between suppliers and plants.
-- `hubs.csv/.dat`: Information on potential hubs (train stations).
-- `railroads_h_p.csv/.dat`: Rail transportation details between hubs and plants.
+- `suppliers.csv`: Contains information about the biomass suppliers.
+- `plants.csv`: Details the potential locations for biorefineries.
+- `roads_s_p.csv`: Road transportation details between suppliers and plants.
+- `hubs.csv`: Information on potential hubs (train stations).
+- `railroads_h_p.csv`: Rail transportation details between hubs and plants.
 
 ## Results and Reports
 The project's outcomes are detailed in the `INF170_Mandatory_Assignment_Report.pdf`. This report includes:
